@@ -1,0 +1,29 @@
+*,*::after *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.azul{
+    background-color: blue;
+    height: 30em;
+}
+.amarillo{
+    background-color: yellow;
+    height: 30em;
+}
+.magenta{
+    background-color: magenta;
+    height: 30em;
+}
+.cian{
+    background-color: cyan;
+    height: 30em;
+}
+.verde{
+    background-color: green;
+    height: 30em;
+}
+
